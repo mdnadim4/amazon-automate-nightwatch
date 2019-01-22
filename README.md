@@ -1,1 +1,1 @@
-# nightwatch_project
+# Nightwatch JS testing project
